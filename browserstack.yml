@@ -1,0 +1,14 @@
+userName: vakacharllamohan_LX29qo
+accessKey: yHEht5kaweHzY5qUczkd
+
+framework: selenium
+
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+
+browserstackLocal: false
+
+buildName: cloud-testing-build
+projectName: CBT-BS
