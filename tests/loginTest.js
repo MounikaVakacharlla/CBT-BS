@@ -18,7 +18,7 @@ async function runTest(env) {
 
     try {
 
-        await driver.get("https://www.saucedemo.com/");
+        await driver.get("https://mounikavakacharlla.github.io/CBT-BS/");
 
         await driver.findElement(By.id('username')).sendKeys('admin');
 
