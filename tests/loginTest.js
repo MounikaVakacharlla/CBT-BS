@@ -18,7 +18,7 @@ async function runTest(env) {
 
     try {
 
-        await driver.get('http://localhost:3000/index.html');
+        await driver.get("https://www.saucedemo.com/");
 
         await driver.findElement(By.id('username')).sendKeys('admin');
 
